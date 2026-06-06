@@ -19,7 +19,7 @@ This program is designed to develop full-stack computer science competency equiv
 
 | Curriculum Section | Progress Bar | Status | Target Completion |
 | :--- | :--- | :---: | :--- |
-| **🟢 Foundations** | `[░░░░░░░░░░░░░░░░░░░░]` 50% | ⏳ Active | Q3 2026 |
+| **🟢 Foundations** | `[░░░░░░░░░░░░░░░░░░░░]` 0% | ⏳ Active | Q3 2026 |
 | **🟡 Core CS** | `[░░░░░░░░░░░░░░░░░░░░]` 0% | 📅 Planned | — |
 | **🟠 Systems** | `[░░░░░░░░░░░░░░░░░░░░]` 0% | 📅 Planned | — |
 | **🔵 Theory** | `[░░░░░░░░░░░░░░░░░░░░]` 0% | 📅 Planned | — |
